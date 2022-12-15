@@ -5,5 +5,4 @@ I am a Hydrologist at the [U.S. Geological Survey (USGS)](https://usgs.gov/) - [
 - 🌊 I also work on [WaveLab](https://www.usgs.gov/software/wavelab): Python-based application that calculates storm-tide water level and wave statistics for deployed instrument data.
 - 💬 Ask me about WIM projects, geospatial analysis, watershed hydrology, data visualization, web development
 - ⚙ Frameworks I use: Angular, AngularJS, Vue.js, FastAPI, .NET Core
-- 🙂 Pronouns: [she/her](https://pronouns.org/)
 - ‼ Please note: Many USGS software repositories are transitioning from GitHub to the [USGS Official Source Code Archive](https://code.usgs.gov/) and may not be publicily accessible until released as provisional or official software. 
