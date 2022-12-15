@@ -1,7 +1,4 @@
 
-
-### About me 👋
-
 I am a Hydrologist at the [U.S. Geological Survey (USGS)](https://usgs.gov/) - [Web Informatics & Mapping (WIM)](https://wim.usgs.gov/) team. I develop software that supports USGS water science initiatives.
 
 - 👩‍💻 I primarily work on [StreamStats](http://streamstats.usgs.gov/): the main StreamStats client is a web-based Geographic Information Systems (GIS) application that provides users with access to analytical tools that are useful for water-resources planning, management, engineering, and design purposes. The StreamStats ecosystem includes multiple clients, services, and databases. 
